@@ -7,4 +7,4 @@ You have to choose k elements from the final array and calculate the sum of thei
 
 Return the maximum sum of squares you can achieve.
 
-Since the answer can be very large, return it modulo 109 + 7.
+Since the answer can be very large, return it modulo 10^9 + 7.
